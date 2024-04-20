@@ -1,0 +1,11 @@
+Supplier Name,Quantity Ordered,Quantity Received,Percentage Quantity Received,Delivery DaysOn-Time Rating,On-Time Rating ,Quality Rating ,Quantity Rating 
+Supplier A,100,95,95.00%,3,4,5,4
+Supplier B,250,242,96.80%,2,5,5,5
+Supplier C,500,485,97.00%,5,3,5,4
+Supplier D,120,110,91.67%,4,3,4,4
+Supplier E,75,70,93.33%,1,5,5,4
+Supplier F,300,280,93.33%,7,2,5,4
+Supplier G,425,400,94.12%,6,3,5,4
+Supplier H,180,165,91.67%,3,4,4,3
+Supplier I,600,570,95.00%,8,2,5,4
+Supplier J,200,185,92.50%,2,5,5,4
