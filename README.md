@@ -1,4 +1,5 @@
-the code is divided into 2 stages. fitting the models on training data and testing the models on different data with same column label. 3 models were preformed
-1- Descision tree model
-2- Support vector machine
-3- ensemble method
+## Project objective
+in this notebook we will investigate the effeciency of using DT model and SVC on the supplier selection problem using scklearn library as the main package for modeling. the section will be divided based on supervised phase and unsupervised phase into:
+
+*   supervised phase for the DT, SVM, and Ensemble method for both models
+*   unsupervised phase for the DT, SVM, and Ensemble method for both models
